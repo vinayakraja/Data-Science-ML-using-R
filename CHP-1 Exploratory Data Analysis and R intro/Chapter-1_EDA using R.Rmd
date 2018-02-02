@@ -36,7 +36,7 @@ The sheer power of R lies in its incredible packages. In R, most data handling t
 
 **To install a package, simply type:** 'r install.packages("package name")'
 
-**Importing Data: ** R offers wide range of packages for importing data available in any format such as .txt, .csv, .json, .sql etc. To import large files of data quickly, it is advisable to install and use data.table, readr, RMySQL, sqldf, jsonlite.
+**Importing Data:** R offers wide range of packages for importing data available in any format such as .txt, .csv, .json, .sql etc. To import large files of data quickly, it is advisable to install and use data.table, readr, RMySQL, sqldf, jsonlite.
 
 **Data Visualization:** R has in built plotting commands as well. They are good to create simple graphs. But, becomes complex when it comes to creating advanced graphics. Hence, you should install ggplot2.
 
