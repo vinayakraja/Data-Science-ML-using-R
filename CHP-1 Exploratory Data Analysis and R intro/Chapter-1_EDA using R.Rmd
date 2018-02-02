@@ -162,6 +162,6 @@ corrplot(corelation, method="number")
 
 ###CONCLUSION
 
-Try similar stuff in Python using this repo ([https://github.com/vinayakraja/Data-Science-ML-using-Python-/blob/master/CHP-1%20Exploratory%20Data%20Analysis%20and%20Python%20intro/Python%20Data%20Science%20-%20Chapter%201%20Intro%20to%20Data%20Analysis%20using%20Python%20.ipynb]). Reach me for questions.
+Try similar stuff in Python using this repo [(https://github.com/vinayakraja/Data-Science-ML-using-Python-/blob/master/CHP-1%20Exploratory%20Data%20Analysis%20and%20Python%20intro/Python%20Data%20Science%20-%20Chapter%201%20Intro%20to%20Data%20Analysis%20using%20Python%20.ipynb)]. Reach me for questions.
 
 - Vinayak Raja
