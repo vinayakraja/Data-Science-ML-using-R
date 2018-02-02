@@ -2,12 +2,10 @@
 title: 'Chapter 1 : Data Analysis using R'
 author: "Vinayak Raja"
 date: "Feburary 1, 2018"
-output: rmarkdown::github_document
+output:rmarkdown::github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 ## R Markdown
 
